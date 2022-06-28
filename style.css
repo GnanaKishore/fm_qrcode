@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+}
+
+body{
+  font-family: 'Outfit', sans-serif;
+  padding: 100px 0 0;
+  max-width: 360px;
+  margin: 0 auto;
+  background-color: hsl(212, 45%, 89%);
+  align-items: center;
+  min-height: 100px;
+
+}
+ .pic{
+  width: 100%;
+  border-radius: 10px;
+ }
+  h2{
+   text-align: center;
+  padding: 10px 4px;
+  color:  hsl(218, 44%, 22%);
+  
+  }
+  h5{
+    text-align: center;
+    padding: 10px 10px;
+    color:  hsl(220, 15%, 55%);
+  }
+
+  .card{
+    background-color: hsl(0, 0%, 100%);
+    padding: 18px;
+    border-radius: 18px;
+    margin: 0 1rem;
+  }
